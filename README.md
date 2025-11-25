@@ -27,7 +27,7 @@ Use Python 3 to run the script straight from your terminal: python cseprojectara
 5. In the event that you made a mistake, the program will display an Error Analysis that highlights the mismatched words.
 # Formula for WPM Calculation
 The following formula, which approximates a word as five characters, is used by the application to determine the Words Per Minute (WPM):
-$$ \text{WPM} = \frac{(\text{Total Characters} / 5)}{\text{Time Taken in Seconds}} \times 60 $$
+((Total Character / 5)/Time Taken In Seconds)*60
 # Writer
 The developer of this project is Aryaman Singh Chauhan.
 His registration number is 25BCY10217.

@@ -29,8 +29,8 @@ Use Python 3 to run the script straight from your terminal: python cseprojectara
 The following formula, which approximates a word as five characters, is used by the application to determine the Words Per Minute (WPM):
 ((Total Character / 5)/Time Taken In Seconds)*60
 # Writer
-The developer of this project is Aryaman Singh Chauhan.
-His registration number is 25BCY10217.
+  * The developer of this project is Aryaman Singh Chauhan.
+  * Registration number is 25BCY10217.
 # Contributing
 Although this project report submission is finished, comments and recommendations are still welcome! Please feel free to create a pull request or open an issue for features like: 
 • Expanding the text bank with additional sentences.
